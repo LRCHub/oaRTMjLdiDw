@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Dolphin",
+  "base_artist": "OH MY GIRL",
+  "createdAt": "2026-03-12T14:02:02.887556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Dolphin",
+      "artist": "SECRETBAND",
+      "has_synced": true,
+      "path": "select/01_Black_Dolphin_SECRETBAND.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Black Dolphin",
+      "artist": "Secret Band",
+      "has_synced": true,
+      "path": "select/02_Black_Dolphin_Secret_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Dream Of The Dolphin",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/03_The_Dream_Of_The_Dolphin_Enigma.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Promise (The Dolphin Song)",
+      "artist": "Olivia Newton-John",
+      "has_synced": true,
+      "path": "select/04_The_Promise_(The_Dolphin_Song)_Olivia_Newton-John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dolphin Expressway",
+      "artist": "Air Miami",
+      "has_synced": true,
+      "path": "select/05_Dolphin_Expressway_Air_Miami.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spy Dolphin",
+      "artist": "Delta Sleep",
+      "has_synced": true,
+      "path": "select/06_Spy_Dolphin_Delta_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Dream of the Dolphin",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/07_The_Dream_of_the_Dolphin_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dolphin",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/08_Dolphin_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dolphin",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_Dolphin_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dolphin`s Heart",
+      "artist": "Luca Turilli",
+      "has_synced": true,
+      "path": "select/10_Dolphin`s_Heart_Luca_Turilli.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aquaberry Dolphin (feat. Mac Miller)",
+      "artist": "Riff Raff feat. Mac Miller",
+      "has_synced": true,
+      "path": "select/11_Aquaberry_Dolphin_(feat._Mac_Miller)_Riff_Raff_feat._Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Where Is The Feeling - BIR Dolphin Mix",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/12_Where_Is_The_Feeling_-_BIR_Dolphin_Mix_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dolphin",
+      "artist": "Poe",
+      "has_synced": true,
+      "path": "select/13_Dolphin_Poe.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dolphin Song",
+      "artist": "Tori Amos",
+      "has_synced": true,
+      "path": "select/14_Dolphin_Song_Tori_Amos.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "PINK DOLPHIN",
+      "artist": "$atori Zoom",
+      "has_synced": true,
+      "path": "select/15_PINK_DOLPHIN_$atori_Zoom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dolphin",
+      "artist": "OH MY GIRL",
+      "has_synced": false,
+      "path": "select/pl_01_Dolphin_OH_MY_GIRL.txt"
+    }
+  ]
+}
